@@ -12,5 +12,5 @@ Sou João Carlos, um aspirante a desenvolvedor Java em busca de meu primeiro est
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="jcorreaw" style="width: 40%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true" alt="jcorreaw" style="width: 40% height="38";">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true" alt="jcorreaw" style="width: 40% height="30";">
 </div>
