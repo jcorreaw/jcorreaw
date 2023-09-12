@@ -9,16 +9,8 @@ Sou João Carlos, um aspirante a desenvolvedor Java em busca de meu primeiro est
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-          
-          
 
-![jcorreaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&theme=dracula&show_icons=true&hide_border=true&layout=compact){ width=50% } ![jcorreaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true){ width=50% }
-
-
-
-          
-          
-          
-          
-          
-          
+<p align="center">
+  <img src="[URL_da_Imagem_1](https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&theme=dracula&show_icons=true&hide_border=true&layout=compact)" alt="Descrição da Imagem 1" width="50%">
+  <img src="[URL_da_Imagem_2](https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true)" alt="Descrição da Imagem 2" width="50%">
+</p>
