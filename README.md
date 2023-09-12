@@ -12,25 +12,8 @@ Sou João Carlos, um aspirante a desenvolvedor Java em busca de meu primeiro est
           
           
 
-<div id="div1">
-<a href="https://github.com/jcorreaw">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div id="div2">
-<a href="https://github.com/jcorreaw">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true"/>
-</div>
+![jcorreaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-div {
-    width: 100px;
-    height: 100px;
-}
-#div1 {
-    background-color: magenta;    
-}
-#div2 {
-    background-color: teal;
-}
 
 
           
