@@ -5,7 +5,7 @@
 
 
 ### Sobre mim
-Sou um Estudante de Engenharia de Software, apaixonado por programação e criação de soluções inovadoras. Estudo principalmente Java, Spring Boot e MySQL para desenvolver minhas habilidades em programação. Estou em busca de uma oportunidade de estágio como desenvolvedor Java para aprimorar meus conhecimentos e expandir minha experiência prática no desenvolvimento de software.
+Estudante de Engenharia de Software apaixonado por programação e movido pela criação de soluções inovadoras. Estou em busca de uma oportunidade de estágio como desenvolvedor Java para elevar meu conhecimento e expandir minha experiência prática no desenvolvimento de software.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
