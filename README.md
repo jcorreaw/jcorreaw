@@ -12,7 +12,7 @@ Sou João Carlos, um aspirante a desenvolvedor Java em busca de meu primeiro est
           
           
 
-![jcorreaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&theme=dracula&show_icons=true&hide_border=true&layout=compact) ![jcorreaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true)
+![jcorreaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreaw&theme=dracula&show_icons=true&hide_border=true&layout=compact) { width=50% } ![jcorreaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcorreaw&theme=dracula&hide_border=true) { width=50% }
 
 
 
