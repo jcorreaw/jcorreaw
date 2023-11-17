@@ -5,7 +5,9 @@
 
 
 ### Sobre mim
-Sou João Carlos, um aspirante a desenvolvedor Java em busca de meu primeiro estágio. Com base sólida em Engenharia de Software e habilidades em Java, Spring Framework, PostgreSQL, MySQL, JPA, Hibernate, Git e Github, estou ansioso para aplicar meu conhecimento em um ambiente prático. Sou comprometido com o aprendizado constante, comunicativo, facilidade com trabalhos em equipe, e estou pronto para contribuir em projetos desafiadores e inovadores.
+Sou João Carlos, Estudante de Engenharia de Software apaixonado por programação e movido pela criação de soluções inovadoras. Estou em busca de uma oportunidade de estágio como desenvolvedor Java para elevar meu conhecimento e expandir minha experiência prática no desenvolvimento de software.
+
+Com uma base sólida em Engenharia de Software, estou ansioso para aplicar minhas habilidades teóricas em um ambiente profissional e colaborar em projetos desafiadores com equipes talentosas. Minha experiência inclui trabalhar com bancos de dados, como MySQL e PostgreSQL, e dominar a análise de requisitos e programação orientada a objetos. Além disso, estou familiarizado com frameworks como Spring Framework, JPA e Hibernate.
 
 ## Ferramentas e Tecnologias
 <div style="text-align: center;">
