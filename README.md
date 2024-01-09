@@ -1,4 +1,4 @@
-# Ola, eu sou o João Carlos :D
+# Ola, eu sou o João Carlos :D.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jcorreaw)](https://github.com/jcorreawlink)
