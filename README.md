@@ -6,7 +6,7 @@
 
 
 ### Sobre mim
-Sou João Carlos, Estudante de Engenharia de Software apaixonado por programação e movido pela criação de soluções inovadoras. Estou em busca de uma oportunidade de estágio como desenvolvedor Java para elevar meu conhecimento e expandir minha experiência prática no desenvolvimento de software.
+Sou João Carlos, Estudante de Engenharia de Software apaixonado por programação e movido pela criação de soluções inovadoras. Estou em busca de uma oportunidade como desenvolvedor Java para elevar meu conhecimento e expandir minha experiência prática no desenvolvimento de software.
 
 Com uma base sólida em Engenharia de Software, estou ansioso para aplicar minhas habilidades teóricas em um ambiente profissional e colaborar em projetos desafiadores com equipes talentosas. Minha experiência inclui trabalhar com bancos de dados, como MySQL e PostgreSQL, e dominar a análise de requisitos e programação orientada a objetos. Além disso, estou familiarizado com frameworks como Spring Framework, JPA e Hibernate.
 
